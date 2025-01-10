@@ -23,10 +23,12 @@ AI Output: *Correct result with logical steps.*
 
 ### Key Takeaway
 **A well-crafted prompt = Better AI output.** Practice refining prompts to maximize the potential of AI tools.
+
 **Initial Prompt**
 A cat sitting on a chair.
 
 By adding more details, you guide the model to generate an image that aligns with your vision.
 Astronaut
+
 **Refined Prompt**
 Generate an image of a tabby cat sitting on a wooden chair in a cozy, sunlit room, with soft shadows and warm lighting.
