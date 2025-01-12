@@ -17,6 +17,11 @@ Prompt engineering is the process of crafting and refining prompts to improve th
 
 **When an AI model doesn’t produce the desired response, prompt engineering allows us to iterate and adjust the prompt to optimize the output. This method is particularly useful for overcoming limitations of generative models, such as logical errors or insufficient context in responses.**
 
+
+The more clearly and contextually a task is described, the better the AI can respond
+
+### **Applying Prompt Engineering to Improve the Prompt**
+Generative AI models, like ChatGPT, can sometimes produce incorrect or misleading outputs. This often happens when a prompt is too vague, lacks necessary details, or doesn’t provide clear instructions.
 ### Why is it Important?
 - **Improves Output**: Clear prompts help AI understand tasks and deliver more relevant answers.
 - **Unlocks AI Potential**: Structured prompts can guide AI to write, generate images, or code effectively.
