@@ -1,7 +1,14 @@
 # Prompt_Engineering
 
 ### What is Prompt Engineering?
-Prompt engineering is the skill of crafting precise and clear instructions (prompts) to guide AI models like ChatGPT, MidJourney, or Gemini to produce better and more accurate results.
+Prompt engineering is the process of crafting and refining prompts to improve the performance of generative AI models.
+### Difference Between Crafting and Refining
+
+- **Crafting:** Writing the first version of your prompt.  
+  *Example:* "Tell me about space."
+
+- **Refining:** Fixing and improving the prompt to make it clearer and more detailed.  
+  *Example:* "Explain what stars are made of and how they produce light."
 
 ### Why is it Important?
 - **Improves Output**: Clear prompts help AI understand tasks and deliver more relevant answers.
